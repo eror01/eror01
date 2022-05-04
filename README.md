@@ -16,7 +16,3 @@
 - Database: MySql
 - Backend: PHP
 - Version Control: Git
-
-### Github Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=eror01&show_icons=true&theme=algolia" alt="eror01" />
