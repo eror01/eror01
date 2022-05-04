@@ -6,8 +6,7 @@
                               3. Front-End: JavaScript,
                               2. Databases: mySQL.
 - 📫 How to reach me: 
-     [Linkedin](https://www.linkedin.com/in/eroraleksandar/) 
-     [Gmail](mailto:eror.aleksandar01@gmail.com)
+    - [Linkedin](https://www.linkedin.com/in/eroraleksandar/) 
+    - [Gmail](mailto:eror.aleksandar01@gmail.com)
 
 ### Technologies that I use for projects:
-https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/CSS.svg
