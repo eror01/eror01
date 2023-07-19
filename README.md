@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning:
       1. Front-End: ReactJS, TypeScript
-      2. Back-End: NodeJS,
+      2. Back-End: NodeJS Express
       3. Databases: PostgreSQL
 - 📫 How to reach me: 
     - 📥 [Linkedin](https://www.linkedin.com/in/eroraleksandar/) 
@@ -14,5 +14,5 @@
 
 - Frontend: HTML5, CSS3, JavaScript (Jquery), ReactJS, TypeScript, Bootstrap, Tailwind, Sass,
 - Database: MySQL, MongoDB
-- Backend:  NodeJS, PHP,
+- Backend:  NodeJS, Express, PHP,
 - Version Control: Git
