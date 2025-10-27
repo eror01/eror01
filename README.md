@@ -21,4 +21,4 @@ Always curious, always building, and always breaking things just to fix them bet
 - **Frontend:** JavaScript, TypeScript, React, Vue.js, Tailwind CSS, Shadcn/UI  
 - **Backend:** Node.js, Express  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-- **Tooling:** Git, REST APIs, PostHog, Pintura, and whatever else the project needs 🚀
+- **Tooling:** Git, REST APIs
